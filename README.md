@@ -6,7 +6,7 @@
 
 - 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
 - 🔭 I’m currently working on DevOps-yfying Pocket Blogging Website.
-- 🌱 I’m currently learning CI/CD pipeline along with tools - Jenkins, Ansible, Docker, and Kubernetes.
+- 🌱 I’m currently learning new technologies related to mostly DevOps.
 - 🏙️ I’m actively looking for full-time job opportunity in DevOps field or Data Engineering. 
 - 🙃 Happiness : watching happy dogs and all other animals.
 - ⚡ Fun fact: I love being introvert.
