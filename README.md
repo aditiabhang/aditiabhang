@@ -38,14 +38,14 @@
 <img align="left" alt="IBMWatsonNB" width="45px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/ibm-watson-logo.png" />
 <img align="left" alt="JupyterNB" width="35px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/jupyter-nb-logo.png" />
 
-<img align="left" alt="Pandas" width="55px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/pandas-logo.png" />
-<img align="left" alt="Numpy" width="55px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/numpy-logo.png" />
-<img align="left" alt="Matplotlib" width="55px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/matplotlib-logo.png" />
+<img align="left" alt="Pandas" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/pandas-logo.png" />
+<img align="left" alt="Numpy" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/numpy-logo.png" />
+<img align="left" alt="Matplotlib" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/matplotlib-logo.png" />
 <img align="left" alt="plotly" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/plotly-logo.png" />
 
 
 <br />
 <br />
 
----
+
 ![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=aditiabhang&show_icons=true&theme=radical&hide=contribs,prs)
