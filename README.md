@@ -48,3 +48,4 @@
 <br />
 
 ---
+![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=aditiabhang&show_icons=true&theme=radical&hide=contribs,prs)
