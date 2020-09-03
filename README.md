@@ -23,24 +23,24 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/python-logo.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/flask-logo.png" />
-<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/docker-logo.png" />
-<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/heroku-logo.png" />
-<img align="left" alt="IBMCloud" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/ibm-cloud-logo.png" />
-<img align="left" alt="Postgresql" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/postgresql-logo.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/docker-logo.png" />
+<img align="left" alt="Heroku" width="30px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/heroku-logo.png" />
+<img align="left" alt="IBMCloud" width="45px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/ibm-cloud-logo.png" />
+<img align="left" alt="Postgresql" width="45px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/postgresql-logo.png" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/bootstrap-logo.png" />
+<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/bootstrap-logo.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="IBMWatsonNB" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/ibm-watson-logo.png" />
-<img align="left" alt="JupyterNB" width="30px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/jupyter-nb-logo.png" />
+<img align="left" alt="IBMWatsonNB" width="45px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/ibm-watson-logo.png" />
+<img align="left" alt="JupyterNB" width="35px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/jupyter-nb-logo.png" />
 
-<img align="left" alt="Pandas" width="45px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/pandas-logo.png" />
-<img align="left" alt="Numpy" width="45px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/numpy-logo.png" />
-<img align="left" alt="Matplotlib" width="45px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/matplotlib-logo.png" />
+<img align="left" alt="Pandas" width="55px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/pandas-logo.png" />
+<img align="left" alt="Numpy" width="55px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/numpy-logo.png" />
+<img align="left" alt="Matplotlib" width="55px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/matplotlib-logo.png" />
 <img align="left" alt="plotly" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/plotly-logo.png" />
 
 
