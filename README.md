@@ -5,9 +5,9 @@
 
 
 - 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
+- 🏙️ I’m actively looking for full-time job opportunities in DevOps | Data Engineering.
 - 🔭 I’m currently working on DevOps-yfying Pocket Blogging Website.
-- 🔗 I love working on new technologies.
-- 🏙️ I’m actively looking for full-time job opportunities in DevOps | Data Engineering. 
+- 🔗 I love exploring new technologies especially related to DevOps, Data Engineering, Data Science and Machine Learning. 
 - 🙃 Happiness : watching happy dogs and all other animals.
 - ⚡ Fun fact: I love being introvert.
 - 📫 How to reach me: 👩‍💼[Linkedin](https://www.linkedin.com/in/aditi-abhang/), 📸[Instagram](https://www.instagram.com/mi_aditi/)
