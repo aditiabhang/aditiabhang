@@ -43,7 +43,6 @@
 <img align="left" alt="Matplotlib" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/matplotlib-logo.png" />
 <img align="left" alt="plotly" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/plotly-logo.png" />
 
-
 <br />
 <br />
 
