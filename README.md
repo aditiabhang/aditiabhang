@@ -10,7 +10,7 @@
 - 🔗 I love exploring new technologies and build my own puppy projects out of it!. 
 - 🙃 Happiness : watching playful cheerful dogs.
 - ⚡ Fun fact: I love being introvert.
-- 📫 How to reach me: 👩‍💼[Linkedin](https://www.linkedin.com/in/aditi-abhang/), 📸[Instagram](https://www.instagram.com/mi_aditi/)
+- 📫 How to reach me: 👩‍💼[Linkedin](https://www.linkedin.com/in/aditi-abhang/)
 
 ### Connect with me:
 
