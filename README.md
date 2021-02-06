@@ -15,7 +15,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Aditi Abhang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aditi-abhang/)
-[<img align="left" alt="Aditi Abhang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mi_aditi/)
 
 <br />
 
