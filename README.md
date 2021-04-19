@@ -5,8 +5,7 @@
 
 
 - 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
-- 🏙️ I’m actively looking for full-time job opportunities for Front-End, Full-Stack Development, and DevOps Engineer positions.
-- 🔭 I’m currently working building on Node.js full stack development. (Feb 2021)
+- 🏙️ Support Engineer @ Liquibase, Austin - TX.
 - 🔗 I love exploring new technologies and build my own puppy projects out of it!. 
 - 🙃 Happiness : watching playful cheerful dogs.
 - ⚡ Fun fact: I love being introvert.
