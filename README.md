@@ -3,9 +3,8 @@
 <!--
 **aditiabhang/aditiabhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
-- 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
 - 🏙️ Support Engineer @ Liquibase, Austin - TX.
+- 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
 - 🔗 I love exploring new technologies and build my own puppy projects out of it!. 
 - 🙃 Happiness : watching playful cheerful dogs.
 - ⚡ Fun fact: I love being introvert.
@@ -35,10 +34,10 @@
 
 <img align="left" alt="JupyterNB" width="35px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/jupyter-nb-logo.png" />
 
-<img align="left" alt="Pandas" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/pandas-logo.png" />
-<img align="left" alt="Numpy" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/numpy-logo.png" />
-<img align="left" alt="Matplotlib" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/matplotlib-logo.png" />
-<img align="left" alt="plotly" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/plotly-logo.png" />
+    <img align="left" alt="Pandas" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/pandas-logo.png" />
+    <img align="left" alt="Numpy" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/numpy-logo.png" />
+    <img align="left" alt="Matplotlib" width="60px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/matplotlib-logo.png" />
+    <img align="left" alt="plotly" width="40px" src="https://raw.githubusercontent.com/aditiabhang/aditiabhang/master/logos/plotly-logo.png" />
 
 <br />
 <br />
