@@ -3,7 +3,7 @@
 <!--
 **aditiabhang/aditiabhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🏙️ Support Engineer @ Liquibase, Austin - TX.
+- 🏙️ Sr. Customer Success Engineer @ e2open, Austin - TX.
 - 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
 - 🔗 I love exploring new technologies and build my own puppy projects out of it!. 
 - 🙃 Happiness : watching playful cheerful dogs.
