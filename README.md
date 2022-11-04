@@ -3,11 +3,8 @@
 <!--
 **aditiabhang/aditiabhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🏙️ Sr. Customer Success Engineer @ e2open, Austin - TX.
+- 🏙️ Partner Alliances Manager @ HashiCorp, Austin - TX.
 - 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
-- 🔗 I love exploring new technologies and build my own puppy projects out of it!. 
-- 🙃 Happiness : watching playful cheerful dogs.
-- ⚡ Fun fact: I love being introvert but enjoy time with friendly people.
 - 📫 How to reach me: 👩‍💼[Linkedin](https://www.linkedin.com/in/aditi-abhang/)
 
 ### Connect with me:
