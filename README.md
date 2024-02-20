@@ -3,7 +3,7 @@
 <!--
 **aditiabhang/aditiabhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🏙️ Partner Alliances Manager @ HashiCorp, Austin - TX.
+- 🏙️ Sr. Support Engineer @ HashiCorp, Austin - TX.
 - 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
 - 📫 How to reach me: 👩‍💼[Linkedin](https://www.linkedin.com/in/aditi-abhang/)
 
