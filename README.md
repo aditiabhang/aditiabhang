@@ -3,7 +3,7 @@
 <!--
 **aditiabhang/aditiabhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🏙️ Sr. Support Engineer @ HashiCorp, Austin - TX.
+- 🏙️ Sr. Support Engineer @ Sourcegraph, Canada 🇨🇦
 - 🎓 Computer Science Graduate 2020 @ Texas State University ⭐
 - 📫 How to reach me: 👩‍💼[Linkedin](https://www.linkedin.com/in/aditi-abhang/)
 
