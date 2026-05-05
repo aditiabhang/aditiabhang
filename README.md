@@ -207,7 +207,7 @@ Learning in public — Kubernetes, AI/ML, Docker, Python.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aditiabhang&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF&v=2" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiabhang&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
