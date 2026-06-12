@@ -20,7 +20,7 @@ role:       Sr. Support Engineer @ Sourcegraph
 focus:      Code Search · Code Insights · DevOps · AI/ML
 education:  M.S. Computer Science — Texas State University '20
 location:   Canada 🇨🇦
-currently:  Studying for KCNA + AWS AI Practitioner
+currently:  working on an agentic AI project
 ```
 
 - 🔍 Debug indexing, permissions & query performance for **100K+ repo** environments
