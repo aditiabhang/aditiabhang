@@ -2,7 +2,7 @@
 
 # Hey, I'm Aditi 👋
 
-**Sr. Support Engineer @ [Sourcegraph](https://sourcegraph.com) 🇨🇦 · CS Grad @ Texas State University 🤘**
+**Sr. Support Engineer @ [Sourcegraph](https://sourcegraph.com) 🇨🇦 · Computer Science Masters x 2 @ Pune University + Texas State University 🤘**
 
 Toddler mom 👶 · Sr. Support Engineer @ Sourcegraph by day · AI/MLOps learner by night 🌙
 
